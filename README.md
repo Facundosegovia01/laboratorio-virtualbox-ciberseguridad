@@ -8,7 +8,7 @@ Este repositorio contiene la documentación y evidencias de la configuración de
 
 ## 1. Configuración del Aislamiento de Red
 
-![Configuración de Red](./img/red-configuration.png)
+![Configuración de Red](./assest/red-configuration.png)
 
 ### Justificación Técnica
 Se eligió el modo NAT para permitir que la VM tenga salida a Internet de forma segura. 
@@ -19,7 +19,7 @@ A diferencia del modo Puente que expone la máquina virtual directamente en la r
 
 ## 2. Protección del Estado Inicial (Snapshots)
 
-![Administrador de Instantáneas](./img/snapshot-config.png)
+![Administrador de Instantáneas](./assest/snapshot-config.png)
 
 ### Punto de Restauración
 Se creó la instantánea con el nombre **"Instalación Base Limpia"** tras finalizar la instalación y configuración inicial del sistema operativo. Esto garantiza contar con un punto de restauración seguro al cual regresar en segundos si el sistema se destruye, desconfigura o infecta durante la ejecución de pruebas de seguridad.
