@@ -26,5 +26,5 @@ Se creó la instantánea con el nombre **"Instalación Base Limpia"** tras final
 
 
 ### Creacion de usuario con minimos privilegios
-![Administrador de Instantáneas](./assest/kaliusers.png)
+![Administrador de Instantáneas](./assest/kali-users.png)
 ---
