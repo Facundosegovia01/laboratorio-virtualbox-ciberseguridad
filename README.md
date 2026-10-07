@@ -25,6 +25,6 @@ A diferencia del modo Puente que expone la máquina virtual directamente en la r
 Se creó la instantánea con el nombre **"Instalación Base Limpia"** tras finalizar la instalación y configuración inicial del sistema operativo. Esto garantiza contar con un punto de restauración seguro al cual regresar en segundos si el sistema se destruye, desconfigura o infecta durante la ejecución de pruebas de seguridad.
 
 
-### Creacion de usuario con minimos privilegios
+### Creacion de usuario limitado
 ![Administrador de Instantáneas](./assest/kali-users.png)
 ---
